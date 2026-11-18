@@ -1,0 +1,11 @@
+
+COMMAND:
+
+git branch -avv
+
+TERMINAL OUTPUT:
+
+* main                       abc1234 [origin/main] Initial commit
+  bug-fix-typo               def5678 Fix typo
+  bug-fix-revert             ghi9012 Revert changes
+  remotes/origin/main        abc1234 Initial commit
